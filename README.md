@@ -1,4 +1,4 @@
-# Fleursite_BDD
+# Fleuriste_BDD
 Projet de 2 eme année de SQL et C#
 
 Le problème présenté était de créer une base de données et une interface client/gestionnaire pour 
